@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>wireguard</id>
-    <version>0.1.1</version>
+    <version>0.1.0</version>
     <title>WireGuard</title>
     <owners>chocolatey</owners>
     <authors>Jason A. Donenfeld</authors>
