@@ -5,13 +5,12 @@
     <id>wireguard</id>
     <version>0.1.1</version>
     <title>WireGuard</title>
-    <owners>wireGuard</owners>
+    <owners>chocolatey</owners>
     <authors>Jason A. Donenfeld</authors>
-    <licenseUrl>https://www.gnu.org/licenses/gpl.html</licenseUrl>
+    <licenseUrl>https://www.gnu.org/licenses/old-licenses/gpl-2.0.html</licenseUrl>
     <projectUrl>https://www.wireguard.com/</projectUrl>
     <iconUrl>https://avatars0.githubusercontent.com/u/13991055</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description> This is a test description
-	</description>
+    <description>WireGuard® is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography.</description>
   </metadata>
 </package>
