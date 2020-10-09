@@ -5,11 +5,11 @@ $packageArgs = @{
   fileType       = 'msi'
   softwareName   = 'WireGuard'
   
-  checksum64	 = 'f00dcbe7f1ef225a834af5e70d90ebe2ef9da4d016afc5ede1b135c708f8134c'
-  checksum32     = 'efb92345d489627ac9014dfcaa1b2323e227a2835d9b7468d9a3c4f9d6b4fcae'
+  checksum64	 = '1bba81cc4e95bf09fcd1d1d63afa0ec19ed204407aee770dcce647e3c3b04262'
+  checksum32     = 'cc6f49c8f16dcba3d6998dbfdeb0835e5cc1240a59b92959fef82243c4e03df8'
   checksumType   = 'sha256'
-  url64bit          = 'https://download.wireguard.com/windows-client/wireguard-amd64-0.1.1.msi'
-  url			 = 'https://download.wireguard.com/windows-client/wireguard-x86-0.1.1.msi'
+  url64bit          = 'https://download.wireguard.com/windows-client/wireguard-amd64-0.1.0.msi'
+  url			 = 'https://download.wireguard.com/windows-client/wireguard-x86-0.1.0.msi'
 
   silentArgs     = '/qn /norestart'
   validExitCodes = @(0)
